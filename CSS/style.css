@@ -251,6 +251,9 @@ h3{
         column-gap: 2rem;
     }
 }
+.camisa__contenido{
+    padding: 1rem;
+}
 /* .formulario{
     display: grid;
     grid-template-columns:  repeat(2, 1fr);
